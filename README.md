@@ -39,6 +39,7 @@ In getForms.php and getSubmissions.php
 
 ##### Result
 
+Here an example how to serve form submissions
 ![alt text](https://github.com/serbayAca/JotformPhpClientExample/blob/master/documentation/result.gif "Example , Running Code")
 
 ### Follow Guides
