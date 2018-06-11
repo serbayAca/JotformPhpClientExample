@@ -1,6 +1,6 @@
 <?php
 	include "jotform-api-php/JotForm.php";
-	$apiKey= 'a4f7b7cac3d9a6b7e2c203755b8a462d'; // Your API Key 
+	$apiKey= '#yourAPIKey#'; // Your API Key 
 
 	#Create a new Jotform Object
 	$jotformAPI = new JotForm($apiKey);
