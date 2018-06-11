@@ -45,5 +45,5 @@ Here an example how to serve form submissions
 ### Follow Guides
 
 Jotform is already serve API's for several platform. 
-[Jotform API Pages and Documentation](http://api.jotform.com/docs/) 
+[Jotform API Pages and Documentation](http://api.jotform.com/docs/)     
 [Jotform PHP API Repos in GitHub ](https://github.com/jotform/jotform-api-php)
