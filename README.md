@@ -37,7 +37,7 @@ In getForms.php and getSubmissions.php
 - Run the PHP Server
 - http://localhost/index.php
 
-##### As a result
+##### Result
 
 ![alt text](https://github.com/serbayAca/JotformPhpClientExample/blob/master/documentation/result.gif "Example , Running Code")
 
